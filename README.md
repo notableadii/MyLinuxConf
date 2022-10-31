@@ -27,3 +27,7 @@ $ sudo apt update
 
 $ sudo apt install git
 ```
+
+# [Install VS Code](https://code.visualstudio.com/Download)
+
+# [Install Chrome](https://www.google.com/chrome/)
